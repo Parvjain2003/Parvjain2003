@@ -21,12 +21,7 @@
 
 ## 👀 I'm interested in
 
-<div align="center"><p>Full Stack Development
-AI & Machine Learning
-Agentic AI
-LangChain & LLMs
-React.js / MERN Stack
-Open Source Contributions</p></div>
+<div align="center"><p>I am interested in Full Stack Development, AI and Machine Learning—including Agentic AI, LangChain, and large language models—as well as React.js and the MERN stack, and I plan to start contributing to open source projects.</p></div>
 
 ## 💻 Tech Stack
 
